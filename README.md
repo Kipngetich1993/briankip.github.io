@@ -1,25 +1,12 @@
-# 🎬 Movie Business Insights – Microsoft Studio Analysis
+# 💼 Brian Kipngetich | Data Analyst Portfolio
 
-Welcome! This repository showcases a data analysis project that explores trends in the movie industry to generate insights for a hypothetical Microsoft movie studio. The goal is to provide actionable business recommendations based on real-world data.
+Welcome to my data analyst portfolio! I’m a certified data Scientist with a strong background in **SQL, Power BI, Excel, and Python**. This portfolio showcases some of my key projects and dashboards, built to deliver insights and solve real-world problems.
 
-## 📌 Project Overview
+## 🌐 Live Portfolio
 
-In this project, I:
-- Analyzed datasets on movies, revenues, genres, and popularity
-- Identified key factors behind box office success
-- Generated business insights using data visualization and analysis
+👉 [View Live Portfolio](https://github.com/Kipngetich1993/briankip.github.io.github.io/your-repo-name/)  
+*(Replace the URL above with the actual GitHub Pages link if hosted)*
 
-The deliverables include:
-- 🧠 A detailed Jupyter Notebook
-- 📈 Visualizations and charts
-- 🗂 A non-technical presentation summary
-- 🔗 [GitHub Repository](https://github.com/your-github-username)
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username)
-
-## 💡 Key Insights
-
-- **Action and Adventure** films are the most consistently profitable.
-- Moderate-budget films often yield better returns than high-budget ones.
-- Timing of release and popularity scores influence performance significantly.
+## 📊
 
 
