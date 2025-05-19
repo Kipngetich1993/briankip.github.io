@@ -26,5 +26,5 @@ A visually intuitive dashboard that highlights revenue trends, regional performa
 
 ## 👋 About Me
 
-Hi, I'm **Brian Kipngetich**, passionate about turning raw data into actionable insights. I thrive on
+Hi, I'm **Brian Kipngetich**, passionate about turning raw data into actionable insights.
 
