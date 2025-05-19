@@ -1,4 +1,4 @@
-# 💼 Brian Kipngetich | Data Analyst Portfolio
+# 💼 Brian Kipngetich Ngeno | Data Scientist Portfolio
 
 Welcome to my data analyst portfolio! I’m a certified data Scientist with a strong background in **SQL, Power BI, Excel, and Python**. This portfolio showcases some of my key projects and dashboards, built to deliver insights and solve real-world problems.
 
